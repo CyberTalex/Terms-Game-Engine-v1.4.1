@@ -1,0 +1,10 @@
+Terms Game Engine v1.4.1
+
+Yenilikler
+· Dosya Kaydet Ve Aç Sistemi
+· Blender .obj dosyasýnýn Data'sýný Yazdýrma
+· 3D Render Motoru (Düzeltildi)
+· Kod Editörü (Düzeltildi)
+· Blender .obj dosyalarýný 3D Mesh Render Alma
+
+©Copyright 2022 TG Game

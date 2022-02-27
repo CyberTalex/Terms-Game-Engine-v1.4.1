@@ -1,10 +1,10 @@
 Terms Game Engine v1.4.1
 
 Yenilikler
-· Dosya Kaydet Ve Aç Sistemi
-· Blender .obj dosyasının Data'sını Yazdırma
-· 3D Render Motoru (Düzeltildi)
-· Kod Editörü (Düzeltildi)
-· Blender .obj dosyalarını 3D Mesh Render Alma
+Â· Dosya Kaydet Ve AÃ§ Sistemi
+Â· Blender .obj dosyasÄ±nÄ±n Data'sÄ±nÄ± YazdÄ±rma
+Â· 3D Render Motoru (DÃ¼zeltildi)
+Â· Kod EditÃ¶rÃ¼ (DÃ¼zeltildi)
+Â· Blender .obj dosyalarÄ±nÄ± 3D Mesh Render Alma
 
-©Copyright 2022 TG Game
+Â©Copyright 2022 TG Games
